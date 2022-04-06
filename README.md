@@ -1,6 +1,4 @@
-<center>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=18&vCenter=true&height=16&lines=👋+hello+,+i'm+fin.;💻+a+self+taught+programmer,+student.)](https://github.com/zuvq)
-</center>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=ffffff&size=18&vCenter=true&height=16&lines=👋+hello+,+i'm+fin.;💻+a+self+taught+programmer,+student.)](https://github.com/zuvq)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zuvq" alt="profile Views" /> <img src="https://img.shields.io/website?down_color=blue&url=https://finley.rip"> </p>
 
 <p align="center">
