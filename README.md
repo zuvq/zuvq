@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=👋+Hey+there,+I'm+fin.;💻+A+self+taught+programmer,+student.)](https://github.com/zuvq)
 <h3 align="center">
 <strong>
 hello, i'm <b><a target="_blank" href="http://finley.rip">fin</a></b>
